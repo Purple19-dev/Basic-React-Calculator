@@ -1,5 +1,7 @@
 # Basic-React-Calculator
 
+An Arithmetic calculator made with React.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Task
@@ -8,10 +10,11 @@ For this assessment, you will be building a calculator in React. You are provide
 
 ## Steps
 
-fork this repo to your github account
-download the codes
-run `npm install` in the project's directory
-run `npm start` to review the calculator
+1. fork this repo [Basic-React-Calculator](https://github.com/Purple19-dev/Basic-React-Calculator) to your github account
+2. clone the project to your local machine using `git clone ....repo`
+3. cd into project's directory
+4. run `npm install` in the project's directory
+5. run `npm start` to start the calculator
 
 ## Before you begin
 
